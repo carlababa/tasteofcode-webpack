@@ -1,0 +1,19 @@
+{
+  "name": "tasteofcode-webpack",
+  "version": "1.0.0",
+  "description": "Modern JS version of the Balloon game for the Taste of Code with Webpack.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlababa/tasteofcode-webpack.git"
+  },
+  "author": "Carla Baba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlababa/tasteofcode-webpack/issues"
+  },
+  "homepage": "https://github.com/carlababa/tasteofcode-webpack#readme"
+}
